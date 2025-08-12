@@ -5,7 +5,7 @@ This repository contains SQL examples for **Subqueries and Nested Queries** in a
 ## 📂 File Included
 - `SubQueries.sql`
   Includes examples of:
-  - Scalar subquery (book with maximum borrowings)
+  - Scalar subquery
   - Correlated subquery
   - Subquery with `IN`
   - Subquery with `EXISTS`
